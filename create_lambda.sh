@@ -4,7 +4,7 @@ cp main.py package/
 
 cp -r model package/
 
-pip install -r requirements.txt -t package/
+pip3.11 install -r requirements.txt -t package/
 
 
 cd package
